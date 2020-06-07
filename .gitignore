@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Non MFC DLLs/Client/Debug
+/Non MFC DLLs/Client/.vs/Client/v16
+/Non MFC DLLs/ExplicitDLL1/Debug
+/Non MFC DLLs/ExplicitDLL1/.vs/ExplicitDLL1/v16
+/Non MFC DLLs/ExplicitDLLTest1/Debug
+/Non MFC DLLs/ExplicitDLLTest1/.vs/ExplicitDLLTest1/v16
+/Non MFC DLLs/MathLibrary/Debug
+/Non MFC DLLs/MathLibrary/.vs/MathLibrary/v16
+/Non MFC DLLs/StringLibrary/Debug
+/Non MFC DLLs/StringLibrary/.vs/StringLibrary/v16
